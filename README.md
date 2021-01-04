@@ -1,2 +1,5 @@
 # 2Dfluids
-Intention is to explore limits of 2D fluid simulation that can be done with python and CPU 
+2D fluid simulation using a projection method. 
+
+Similar in spirit to the approach here although most details are different (most obviously this code is for a CPU not GPU): 
+https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html
